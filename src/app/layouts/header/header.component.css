@@ -1,0 +1,12 @@
+header{
+height: 100px;
+}
+.site-logo{
+      padding:  5px 20px;
+      border-radius: 20px;
+      background-color:#e5f5EA;
+      color: #026467;
+      text-decoration: none;
+      font-size: 1.5em;
+
+}

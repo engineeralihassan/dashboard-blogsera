@@ -1,1 +1,45 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+/* global styles variables for theme */
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@1,900&family=Roboto&display=swap');
+:root{
+      --primary-color: #026467;
+      --secondry-color: #e5f5EA;
+      --body-text-color: #596392;
+      --navbar-footer-color: #f9f9f9;
+
+
+}
+body{
+      font-family: 'Roboto', sans-serif;
+      font-size: 12px;
+      color: var(--body-text-color);
+
+}
+.shadow-effect{
+         border: none;
+          box-shadow:0px 0px 33px -10px rgba(71,114,254,0.3) ;
+
+
+}
+.bg-theme{
+  background-color: var(--primary-color);    
+}
+
+.bg-secondry-theme{
+     background-color: var(--secondry-color); 
+
+}
+.text-theme-primary{
+  color: var(--primary-color);    
+}
+
+
+
+
+
+
+
